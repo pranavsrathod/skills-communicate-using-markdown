@@ -1,2 +1,3 @@
 # As if I have not tried this before :)
-## Pranav R
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
