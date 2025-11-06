@@ -26,3 +26,9 @@ class Solution:
         
         return ans
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Learn more about Markdown
+
